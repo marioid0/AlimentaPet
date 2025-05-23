@@ -6,7 +6,7 @@
 
 - Arduino Uno
 - Microservo motor
-- RTC (Relógio de Tempo Real)
+- RTC (Real Time Clock)
 - Teclado matricial (4x4)
 - LEDs (vermelho, amarelo e verde)
 - Protoboard
